@@ -1,4 +1,4 @@
-# pywinpipe
+# pywinpipe - Fast data exchange between 2 processes (Windows only)
 
 The pywinpipe module with the 2 classes: Write2Pipe and ReadFromPipe can be beneficial for people who need to establish 
 inter-process communication (IPC) between different programs or components on a Windows system.
